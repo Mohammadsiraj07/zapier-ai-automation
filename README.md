@@ -1,4 +1,4 @@
-# AI-Powered Email Summarizer for WhatsApp
+# Project: AI-Powered Email Summarizer for WhatsApp
 
 This project demonstrates an automated workflow built in Zapier that uses Google's Gemini AI to parse, summarize, and send notifications for specific emails.
 
@@ -6,11 +6,19 @@ This project demonstrates an automated workflow built in Zapier that uses Google
 
 ---
 
+## 🎬 Live Demo
+
+Here is a short video walkthrough explaining the goal, architecture, and AI prompting strategy for this workflow.
+
+**(Link to your Loom or YouTube Video Here)**
+
+---
+
 ## 🚀 Use This Zap
 
 You can install and use this exact workflow template by clicking the link below.
 
-**[Click here to use this Zap!]((https://zapier.com/shared/abd846ad3c69da3375832de210008a7d92e4f353))**
+**[Click here to use this Zap!]([YOUR_ZAPIER_SHARE_LINK_HERE](https://zapier.com/shared/abd846ad3c69da3375832de210008a7d92e4f353))**
 
 ---
 
