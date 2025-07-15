@@ -6,19 +6,11 @@ This project demonstrates an automated workflow built in Zapier that uses Google
 
 ---
 
-## 🎬 Live Demo
-
-Here is a short video walkthrough explaining the goal, architecture, and AI prompting strategy for this workflow.
-
-**(Link to your Loom or YouTube Video Here)**
-
----
-
 ## 🚀 Use This Zap
 
 You can install and use this exact workflow template by clicking the link below.
 
-**[Click here to use this Zap!]([YOUR_ZAPIER_SHARE_LINK_HERE](https://zapier.com/shared/abd846ad3c69da3375832de210008a7d92e4f353))**
+https://zapier.com/shared/abd846ad3c69da3375832de210008a7d92e4f353
 
 ---
 
